@@ -15,5 +15,6 @@
 /log/*.log
 /tmp
 
-* Ignore other files
+* Ignore other unneeded files.
 .secret
+bundler_stubs/
